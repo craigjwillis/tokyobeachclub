@@ -1,3 +1,8 @@
 This repository is used for testing and learning git.
 
+<<<<<<< HEAD
 A new line has been added
+=======
+here is a new line
+and now add another line
+>>>>>>> f16a4ea4f2c0740fa84a44aa7317d6c522d8c226
