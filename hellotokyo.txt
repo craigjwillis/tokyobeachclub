@@ -4,3 +4,5 @@ this is winchester
 Goodbye Hong Kong
 Japan is here
 this is a staging area test
+
+This is my colour test
