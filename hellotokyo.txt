@@ -8,5 +8,6 @@ this is a staging area test
 
 This is my colour test
 
-
 new repository test for awesomeness!
+
+This is not a new repository test
