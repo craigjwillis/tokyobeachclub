@@ -9,4 +9,4 @@ this is a staging area test
 This is my colour test
 
 
-new repository test
+new repository test for awesomeness!
